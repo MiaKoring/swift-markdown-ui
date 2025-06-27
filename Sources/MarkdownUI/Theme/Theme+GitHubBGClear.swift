@@ -21,7 +21,7 @@ extension Theme {
   /// Bulleted list | ![](GitHubNestedBulletedList)
   /// Numbered list | ![](GitHubNumberedList)
   /// Table | ![](GitHubTable)
-  public static let gitHub = Theme()
+  public static let gitHubClearBG = Theme()
     .text {
       ForegroundColor(.text)
       BackgroundColor(.background)
